@@ -11,4 +11,5 @@
     num
     (largest-factor (my-largest-factor num))))
 (largest-factor 1300)
+;......现在还没算完，pe上的不是设计成一分钟内完成？果然算法有问题
 
